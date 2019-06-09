@@ -14,17 +14,15 @@ Jupyter Nobtebook
 Python Version 3.7
 Python Package needed for this notebook file: pandas; datetime, matplotlib, seaborn, geopandas
 
-## Analysis Result Only Version
-The result only version of this analysis could be access through the 'NYC_parking_ticket_analysis.html' file from the same project folder
-
 ## How to run the Jupyter Notebook File:
 1.  Download and install the The Jupyter Notebook. (Jupyter Notebook can be downloaded at: https://jupyter.org/)
 Installation Instruction could be find at: https://jupyter.org/install.html
 
 2. Install all the required python packages listed in the Requirement sections. It is best to manage the packages through Anaconda. (Download Link: https://www.anaconda.com/distribution/)
 
-
 3. Download the 'precinct_map.zip' file provided and unzip and move the file to the same directory as the notebook file before running the notebook file. 
+
+4. Download all the original datasets (Fiscal Year 2015 to Fiscal Year 2017) listed in the introduction section
 
 
 ##Extra Resources and References:
