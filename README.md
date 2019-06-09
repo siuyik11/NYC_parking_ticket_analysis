@@ -25,7 +25,7 @@ Installation Instruction could be find at: https://jupyter.org/install.html
 4. Download all the original datasets (Fiscal Year 2015 to Fiscal Year 2017) listed in the introduction section
 
 
-##Extra Resources and References:
+## Extra Resources and References:
 NYC ASP Street Parking Map: (https://www.freeparknyc.com/)
 Parking Violation Code List (https://www1.nyc.gov/site/finance/vehicles/services-violation-codes.page)
 NYC Precinct Map: https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz
