@@ -10,12 +10,12 @@ Original Dataset can be downloaded through the following links:
 3. Parking Violations Issued - Fiscal Year 2017 (https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx)
 
 ## Requirements:
-Jupyter Nobtebook
-Python Version 3.7
-Python Package needed for this notebook file: pandas; datetime, matplotlib, seaborn, geopandas
+1. Jupyter Nobtebook
+2. Python Version 3.7
+3. Python Package needed for this notebook file: pandas; datetime, matplotlib, seaborn, geopandas
 
 ## How to run the Jupyter Notebook File:
-1.  Download and install the The Jupyter Notebook. (Jupyter Notebook can be downloaded at: https://jupyter.org/)
+1. Download and install the The Jupyter Notebook. (Jupyter Notebook can be downloaded at: https://jupyter.org/)
 Installation Instruction could be find at: https://jupyter.org/install.html
 
 2. Install all the required python packages listed in the Requirement sections. It is best to manage the packages through Anaconda. (Download Link: https://www.anaconda.com/distribution/)
